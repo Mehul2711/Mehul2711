@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Mehul!!</h1>
 
----
+
 <p>&nbsp;</P>
 
-<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=2CFF00&size=28&lines=Welcome+To+My+Github+Profile;" style="padding-left:11rem"/></a>
+<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=2CFF00&size=28&lines=Welcome+To+My+GitHub+Profile;" style="padding-left:11rem"/></a>
 
 <p>&nbsp;</P>
 <img align="right"  width=90px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
