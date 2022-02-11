@@ -1,4 +1,9 @@
-<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=00FDFF&size=28&lines=Hello+I+Am+Mehul+Kumar!;Welcome+To+My+Github+Profile" style="padding-left:11rem"/></a>
+<h1 align="center">Hi there, I'm Mehul!!</h1>
+
+---
+<p>&nbsp;</P>
+
+<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=2CFF00&size=28&lines=Welcome+To+My+Github+Profile;" style="padding-left:11rem"/></a>
 
 <p>&nbsp;</P>
 <img align="right"  width=90px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -6,7 +11,7 @@
 <img align="left"  width=90px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="40%"/></p>
 
 <p align="center">I'm a student developer.<br/> 
 
@@ -32,7 +37,7 @@
 
 
 
-<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=00FDFF&size=28&lines=Where+To+Find+Me!" style="padding-left:11rem"/></a>
+<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=00FDFF&size=28&lines=Connect+With+Me+:;" style="padding-left:11rem"/></a>
 
 <a href="mailto:mehul2711@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mehul2711@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
@@ -46,7 +51,7 @@
 <p>&nbsp;</P>
 <p
  align="center" ><img 
- src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="95%"/>
+ src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="65%"/>
  
 
  </p>
