@@ -57,4 +57,10 @@
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Mehul2711&show_icons=true&theme=cobalt"/></a>
 
 <p>&nbsp;</P>
+<p align="left">
+<a href="https://github.com/Mehul2711">
+
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=4&theme=cobalt"/>
+</a>
+</p>
 
