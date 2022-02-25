@@ -18,7 +18,7 @@
 <p1><b>
 🔭 I’m currently working on C/C++ </b></P>
 <p2><b>
-🌱 I’m currently learning HTML, CSS, Javascript, Python</b></p2>
+🌱 I’m currently learning HTML, CSS, Javascript, Python</b></p2>                        
 
 <p3><b>
 👯 I’m looking to collaborate on anything</b></p3>
@@ -34,7 +34,6 @@
 <p>&nbsp;</P>
 
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=7D00FF&size=28&lines=Technology+:;" style="padding-left:11rem"/></a>
-
 <p><center>
 <img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
 <img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
@@ -54,13 +53,12 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=FBFA18&size=28&lines=Stats+:;" style="padding-left:11rem"/></a>
 
 <a href="https://github.com/Mehul2711">
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Mehul2711&show_icons=true&theme=cobalt"/></a>
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Mehul2711&show_icons=true&theme=vision-friendly-dark"/></a>
 
 <p>&nbsp;</P>
 <p align="left">
 <a href="https://github.com/Mehul2711">
 
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=4&theme=cobalt"/>
+  <img height="168px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=4&theme=vision-friendly-dark"/>
 </a>
 </p>
-
