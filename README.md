@@ -37,7 +37,8 @@
 <p><center>
 <img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
 <img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
-<img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></center></p>
+<img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img align="center" width=40 height=40 src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1650043801~hmac=1162b2ac69a996e3a6171f3812e7ee4e" />&nbsp;&nbsp;</center></p>
 <p>&nbsp;</P>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=00FDFF&size=28&lines=Connect+With+Me+:;" style="padding-left:11rem"/></a>
 
