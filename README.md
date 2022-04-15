@@ -42,7 +42,7 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=00FDFF&size=28&lines=Connect+With+Me+:;" style="padding-left:11rem"/></a>
 
 <p><center>
-  <a href="mailto:mehul2711@gmail.com" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" width=40 height=40/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mehul2711@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width=40 height=40/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Mehulkumar_27" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width=40 height=40/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mehul-kumar-0bb856223/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width-40 height=40/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/Mehul_27/" target="_blank"> <img align="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height=40 width=40/></a>
