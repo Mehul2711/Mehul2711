@@ -2,14 +2,14 @@
 
 <p>&nbsp;</P>
 
-<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=2CFF00&size=28&lines=Welcome+To+My+GitHub+Profile+:);" style="padding-left:11rem"></a>
+<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=2CFF00&size=28&lines=Welcome+To+My+GitHub+Profile;" style="padding-left:11rem"></a>
 
 <p>&nbsp;</P>
 <img align="right"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img align="left"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center" ><img 
- src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="40%"></p>
+ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m3hxzl8mqse2g25tezvu657vbr7ktlnwrr9k54ji&rid=giphy.gif&ct=g" width="40%"></p>
 
 <p align="center"><b>I'm a student developer<br/>
 
@@ -18,7 +18,7 @@
 <p1><b>
 🔭 I’m currently working on C/C++ </b></P>
 <p2><b>
-🌱 I’m currently learning HTML, CSS, Javascript, Python</b></p2>                        
+🌱 I’m currently learning HTML, CSS, Python</b></p2>                        
 
 <p3><b>
 👯 I’m looking to collaborate on anything</b></p3>
@@ -37,7 +37,6 @@
 <p><center>
 <img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
 <img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
-<img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
 <img align="center" width=40 height=40 src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1650043801~hmac=1162b2ac69a996e3a6171f3812e7ee4e" />&nbsp;&nbsp;</center></p>
 <p>&nbsp;</P>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=00FDFF&size=28&lines=Connect+With+Me+:;" style="padding-left:11rem"/></a>
