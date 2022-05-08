@@ -59,6 +59,6 @@
 <p align="left">
 <a href="https://github.com/Mehul2711">
 
-  <img height="168px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=4&theme=vision-friendly-dark"/>
+  <img height="168px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </a>
 </p>
