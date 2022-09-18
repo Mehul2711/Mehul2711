@@ -1,66 +1,56 @@
-<h1 align="center">Hi there, I'm Mehul!!</h1>
-
-<p>&nbsp;</P>
-
-<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=2CFF00&size=28&lines=Welcome+To+My+GitHub+Profile;" style="padding-left:11rem"></a>
-
-<p>&nbsp;</P>
+<h1 align="center" span style="color:white">Hi 👋, I'm Mehul Kumar</h1>
+<h2 align="center" span style="color:white">I'm a Web Developer</h2>
+<br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=4000&pause=1000&color=29F75E&background=0702FF00&center=true&width=435&lines=Welcome+To+My+Github+Profile+" alt="Typing SVG" /></a></p>
+<br>
 <img align="right"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img align="left"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center" ><img 
- src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m3hxzl8mqse2g25tezvu657vbr7ktlnwrr9k54ji&rid=giphy.gif&ct=g" width="40%"></p>
+ src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%"></p>
+ <br>
+ <br>
+ <span style="color:white">
 
-<p align="center"><b>I'm a student developer<br/>
+- 🔭 I’m currently working on : **C++**
 
-<p>&nbsp;</P>
+- 🌱 I’m currently learning : **JavaScript, ReactJS**
 
-<p1><b>
-🔭 I’m currently working on C/C++ </b></P>
-<p2><b>
-🌱 I’m currently learning HTML, CSS, Python</b></p2>
+- 👯 I’m looking to collaborate on : **HTML,CSS,C++**
 
-<p3><b>
-👯 I’m looking to collaborate on anything</b></p3>
+- 🤝 I’m looking for help with : **Anything mentioned above**
 
-<p4><b>
-🤔 I’m looking for help with anything mentioned above</b></p4>
+- 💬 Ask me about : **C/C++**
 
-<p5><b>
-😄 Pronouns: He/Him</b></p5>
+- 📫 How to reach me : **mehulkumar086@gmail.com**
 
-<p>&nbsp;</P>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1YRYj9QWAF4O7tR_l46yetLYyszzJk56W/view?usp=sharing">**Resume**</a>
 
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=7D00FF&size=28&lines=Technology+:;" style="padding-left:11rem"/></a>
-
-<p><center>
-<img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-<img align="center" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
-<img align="center" width=40 height=40 src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1652196928~hmac=3b10fbeff657ead3eb59473b988f2511" />&nbsp;&nbsp;</center></p>
-<p>&nbsp;</P>
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=00FDFF&size=28&lines=Connect+With+Me+:;" style="padding-left:11rem"/></a>
-
-<p><center>
-  <a href="mailto:mehul2711@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width=40 height=40/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Mehulkumar_27" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width=40 height=40/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehul-kumar-0bb856223/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width-40 height=40/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/Mehul_27/" target="_blank"> <img align="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height=40 width=40/></a>
-</center>
+- 😄 Pronouns **He/Him**
+<br>
+<br>
+<hr>
+<br>
+<p align="center">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/mehulkumar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehulkumar_27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehulkumar27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulkumar27" height="30" width="40" /></a>
+<a href="https://instagram.com/mehul_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehul_27" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/srmcse_375" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmcse_375" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mk3416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mk3416" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mehul-27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehul-27" height="30" width="40" /></a>
 </p>
-<p>&nbsp;</P>
 
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?&font=Oswald&color=FBFA18&size=28&lines=Stats+:;" style="padding-left:11rem"/></a>
-
-<a href="https://github.com/Mehul2711">
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Mehul2711&show_icons=true&theme=vision-friendly-dark"/></a>
-
-<p>&nbsp;</P>
-<p align="left">
-<a href="https://github.com/Mehul2711">
-
-  <img height="168px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-</a>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </p>
 <br>
-
-[![Mehul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mehul2711&cotton_candy)](https://github.com/Mehul2711)
+<hr>
+<br>
+<p align="center">
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Mehul2711&show_icons=true&theme=chartreuse-dark"/></a></p>
+<br>
+<p align="center">
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=8&theme=chartreuse-dark"/></p>
