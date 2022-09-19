@@ -54,3 +54,10 @@
 <br>
 <p align="center">
   <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=8&theme=chartreuse-dark"/></p>
+ <br>
+<hr>
+<p align="center">
+
+[![Mehul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mehul2711&theme=chartreuse-dark)](https://github.com/Mehul2711/github-readme-activity-graph)
+
+</p>
