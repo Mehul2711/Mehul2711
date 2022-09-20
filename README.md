@@ -1,5 +1,5 @@
 <h1 align="center" span style="color:white">Hi 👋, I'm Mehul Kumar</h1>
-<h2 align="center" span style="color:white">I'm a Web Developer</h2>
+<h1 align="center" span style="color:white">I'm a Web Developer</h1>
 <br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=4000&pause=1000&color=29F75E&background=0702FF00&center=true&width=435&lines=Welcome+To+My+Github+Profile+" alt="Typing SVG" /></a></p>
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me : **mehulkumar086@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/16-lg657vA2Dc8s7g1ockZGgUlgg_8-zC/view?usp=sharing">**Resume**</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1YRYj9QWAF4O7tR_l46yetLYyszzJk56W/view?usp=sharing">**Resume**</a>
 
 - 😄 Pronouns **He/Him**
 <br>
@@ -46,7 +46,11 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </p>
+<hr>
 <br>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317ltgw3bjta3dijarywwy6jemzy&cover_image=true&theme=novatorem&bar_color=33f1ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <hr>
 <br>
 <p align="center">
@@ -54,8 +58,9 @@
 <br>
 <p align="center">
   <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=8&theme=chartreuse-dark"/></p>
- <br>
+<br>
 <hr>
+<br>
 <p align="center">
 
 [![Mehul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mehul2711&theme=chartreuse-dark)](https://github.com/Mehul2711/github-readme-activity-graph)
