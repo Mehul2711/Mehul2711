@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on : **C++**
 
-- 🌱 I’m currently learning : **JavaScript, ReactJS, TypeScript**
+- 🌱 I’m currently learning : **JavaScript, ReactJS**
 
 - 👯 I’m looking to collaborate on : **HTML,CSS,C++**
 
