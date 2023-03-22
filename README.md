@@ -47,8 +47,11 @@
 <hr>
 <br>
 <br>
-
+<p align= "center">
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317ltgw3bjta3dijarywwy6jemzy&cover_image=true&theme=novatorem&bar_color=33f1ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
+</p>
 <hr>
 <br>
 <p align="center">
