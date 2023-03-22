@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on : **C, C++, JS, Next JS, React JS, Tailwind CSS**
 
-- 🌱 I’m currently learning : **AI/ML**
+- 🌱 I’m currently learning : **Python, Java**
 
 - 👯 I’m looking to collaborate on : **HTML, CSS, C++, JS, Next JS, React JS, Tailwind CSS**
 
