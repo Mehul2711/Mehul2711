@@ -13,15 +13,13 @@
  <br>
  <span style="color:white">
 
-- 🔭 I’m currently working on : **C++**
+- 🔭 I’m currently working on : **C, C++, JS, Next JS, React JS, Tailwind CSS**
 
-- 🌱 I’m currently learning : **JavaScript**
+- 🌱 I’m currently learning : **AI/ML**
 
-- 👯 I’m looking to collaborate on : **HTML,CSS,C++**
+- 👯 I’m looking to collaborate on : **HTML, CSS, C++, JS, Next JS, React JS, Tailwind CSS**
 
 - 🤝 I’m looking for help with : **Anything mentioned above**
-
-- 💬 Ask me about : **C/C++**
 
 - 📫 How to reach me : **mehulkumar086@gmail.com**
 
