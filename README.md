@@ -13,7 +13,7 @@
  <br>
  <span style="color:white">
 
-- 🔭 I’m currently working on : **C, C++, JS, Next JS, React JS, Tailwind CSS**
+- 🔭 I’m currently working on : **Next JS, React JS, Tailwind CSS**
 
 - 🌱 I’m currently learning : **Python, Java**
 
