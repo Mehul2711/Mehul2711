@@ -23,7 +23,7 @@
 
 - 📫 How to reach me : **mehulkumar086@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/188-r7IES_ZIypvYj0D_CjCfUEgLBXmja/view?pli=1">**Resume**</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1YLUYRstGTf90SacBowYkxx71DgDuOufu/view?usp=sharing">**Resume**</a>
 
 - 😄 Pronouns **He/Him**
 <br>
