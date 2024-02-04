@@ -8,7 +8,7 @@
 <img align="left"  width=100px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center" ><img 
- src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%"></p>
+ src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" width="40%"></p>
  <br>
  <br>
  <span style="color:white">
