@@ -1,4 +1,5 @@
-<h1 align="center" span style="color:white">Hi 👋, I'm Mehul Kumar</h1>
+<div align="center"><img src="/header.png"></img></div>
+
 <h1 align="center" span style="color:white">I'm a Web Developer</h1>
 <br>
 <p align="center">
@@ -23,9 +24,13 @@
 
 - 📫 How to reach me : **mehulkumar086@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1YLUYRstGTf90SacBowYkxx71DgDuOufu/view?usp=sharing">**Resume**</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1bNjItAGOCu7aPn1LtWzWMmM85SpiN2FN/view?usp=sharing">**Resume**</a>
 
 - 😄 Pronouns **He/Him**
+
+  <div align="center">
+<img height="120px" src="https://github-profile-trophy.vercel.app/?username=mehul2711&row=2" alt="profile trophies">
+</div>
 <br>
 <br>
 <hr>
@@ -47,11 +52,18 @@
 <hr>
 <br>
 <br>
-<p align= "center">
+<div align= "center">
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317ltgw3bjta3dijarywwy6jemzy&cover_image=true&theme=novatorem&bar_color=33f1ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317ltgw3bjta3dijarywwy6jemzy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317ltgw3bjta3dijarywwy6jemzy&redirect=true)
  
-</p>
+</div>
+<!-- Markdown -->
+
+<div align="center">
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</div>
 <hr>
 <br>
 <p align="center">
@@ -59,11 +71,7 @@
 <br>
 <p align="center">
   <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mehul2711&layout=compact&langs_count=8&theme=chartreuse-dark"/></p>
+  
 <br>
 <hr>
 <br>
-<p align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mehul2711&bg_color=000000&color=ffffff&line=29ff5e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</p>
