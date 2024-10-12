@@ -16,13 +16,13 @@
 
 - 🔭 I’m currently working on : **Next JS, React JS, Tailwind CSS**
 
-- 🌱 I’m currently learning : **Python, Java**
+- 🌱 I’m currently learning : **Java, C++**
 
-- 👯 I’m looking to collaborate on : **HTML, CSS, C++, JS, Next JS, React JS, Tailwind CSS**
+- 👯 I’m looking to collaborate on : **HTML, CSS, JS, Next JS, React JS, Tailwind CSS**
 
 - 🤝 I’m looking for help with : **Anything mentioned above**
 
-- 📫 How to reach me : **mehulkumar086@gmail.com**
+- 📫 How to reach me : **mehul271102@gmail.com**
 
 - 📄 Know about my experiences : <a href="https://tinyurl.com/mehul2711">**Resume**</a>
 
