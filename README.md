@@ -24,7 +24,7 @@
 
 - 📫 How to reach me : **mehulkumar086@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1bNjItAGOCu7aPn1LtWzWMmM85SpiN2FN/view?usp=sharing">**Resume**</a>
+- 📄 Know about my experiences : <a href="https://tinyurl.com/mehul2711">**Resume**</a>
 
 - 😄 Pronouns **He/Him**
 
