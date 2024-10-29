@@ -29,7 +29,7 @@
 - 😄 Pronouns **He/Him**
 
   <div align="center">
-<img height="120px" src="https://github-profile-trophy.vercel.app/?username=mehul2711&row=2" alt="profile trophies">
+<img height="120px" src="https://github-profile-trophy.vercel.app/?username=mehul2711&row=2&theme=chartreuse-dark" alt="profile trophies">
 </div>
 <br>
 <br>
