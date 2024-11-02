@@ -38,13 +38,13 @@
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mehulkumar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehulkumar_27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehulkumar27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulkumar27" height="30" width="40" /></a>
-<a href="https://instagram.com/mehul_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehul_27" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srmcse_375" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmcse_375" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mk3416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mk3416" height="30" width="40" /></a>
+ <a href="https://twitter.com/mehulkumar_27"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/mehulkumar27"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/mehul_27"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+<!-- <a href="https://www.codechef.com/users/srmcse_375" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmcse_375" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mk3416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mk3416" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/mehul-27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehul-27" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
